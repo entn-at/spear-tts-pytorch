@@ -12,7 +12,7 @@ INSTALLATION INSTRUCTIONS~
 https://pytorch.org/get-started/locally/
 
 (3)  pip3 install WhisperSpeech
-(4)  pip3 install sounddevice==0.4.6
+(4)  pip3 install sounddevice==0.4.6 webdataset
 (5)  python gui_text_to_audio_playback.py
 '''
 
