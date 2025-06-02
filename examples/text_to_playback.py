@@ -18,7 +18,7 @@ https://pytorch.org/get-started/locally/
 ---This script has been tested up to Torch 2.2.0.
 
 (3)  pip3 install WhisperSpeech
-(4)  pip3 install sounddevice==0.4.6
+(4)  pip3 install sounddevice==0.4.6 webdataset
 (5)  python text_to_playback.py
 '''
 
