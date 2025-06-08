@@ -15,8 +15,6 @@ Our goal is to be for speech what Stable Diffusion is for images—powerful, hac
 
 https://github.com/collabora/WhisperSpeech/assets/107984/aa5a1e7e-dc94-481f-8863-b022c7fd7434
 
----
-
 ## 🚀 Progress Updates
 
 <details><summary><strong>[2024-01-29]</strong> – Tiny S2A multilingual voice-cloning</summary>
@@ -59,7 +57,9 @@ A new SD‑size S2A model brings major speed‑ups without sacrificing quality; 
 [Archive of older updates](https://github.com/collabora/WhisperSpeech/issues/23)
 </details>
 
----
+## 📊 Community Benchmarks
+
+Unofficial speed & memory‑usage results from the community can be found [here](https://github.com/WhisperSpeech/WhisperSpeech/issues/131).
 
 ## 📦 Downloads
 
@@ -68,16 +68,12 @@ A new SD‑size S2A model brings major speed‑ups without sacrificing quality; 
   * Pre‑trained models – <https://huggingface.co/collabora/whisperspeech>  
   * Converted datasets – <https://huggingface.co/datasets/collabora/whisperspeech>
 
----
-
 ## 🗺️ Roadmap
 
 - [ ] [Gather large emotive‑speech dataset](https://github.com/collabora/spear-tts-pytorch/issues/11)  
 - [ ] Condition generation on emotion & prosody  
 - [ ] Community drive for freely licensed multilingual speech  
 - [ ] [Train final multilingual models](https://github.com/collabora/spear-tts-pytorch/issues/12)
-
----
 
 ## ⚙️ Architecture
 
@@ -105,8 +101,6 @@ WhisperSpeech follows the two‑stage, token‑based pipeline popularised by
 *Open‑Source TTS Projects: WhisperSpeech – In‑Depth Discussion*
 </details>
 
----
-
 ## 🙏 Appreciation
 
 [<img height=80 src="https://user-images.githubusercontent.com/107984/229537027-a6d7462b-0c9c-4fd4-b69e-58e98c3ee63f.png" alt="Collabora logo">](https://www.collabora.com)      [<img height=80 src="https://user-images.githubusercontent.com/107984/229535036-c741d775-4a9b-4193-89a0-9ddb89ecd011.png" alt="LAION logo">](https://laion.ai)
@@ -121,8 +115,6 @@ Additional compute funded by the Gauss Centre for Supercomputing via the John 
 
 Special thanks to individual contributors:  
 * [@inevitable-2031](https://github.com/inevitable-2031) (`qwerty_qwer` on Discord) for dataset curation
-
----
 
 ## 💼 Consulting
 
